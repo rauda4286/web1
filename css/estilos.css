@@ -9,17 +9,23 @@ font-weight: 400;
 
 color: #ffffff;
 
-background: #889ccf;
+background: #383838;
 
 margin: 0 0 25px;
 
 overflow: hidden;
 
 padding: 20px;
+    
+border: 2px solid #C3C1C1;
 
 }
 
 
 .TextoInicio {
-FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: Arial; TEXT-DECORATION: none ; TEXT-ALIGN:justify;
+FONT-SIZE: 14px; COLOR: #FFFFFF; FONT-FAMILY: Arial; TEXT-DECORATION: none ; TEXT-ALIGN:justify;
+}
+
+.Textotitulo {
+FONT-SIZE: 15px; COLOR: #FFFFFF; FONT-FAMILY: Arial; TEXT-DECORATION: none ; TEXT-ALIGN:justify;
 }
