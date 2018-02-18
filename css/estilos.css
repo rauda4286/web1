@@ -29,3 +29,7 @@ FONT-SIZE: 14px; COLOR: #FFFFFF; FONT-FAMILY: Arial; TEXT-DECORATION: none ; TEX
 .Textotitulo {
 FONT-SIZE: 15px; COLOR: #FFFFFF; FONT-FAMILY: Arial; TEXT-DECORATION: none ; TEXT-ALIGN:justify;
 }
+
+.margen{
+    margin-top: 40px;
+}
