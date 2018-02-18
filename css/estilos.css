@@ -1,4 +1,4 @@
-<style>
+
 .div{
 
 font-family: sans-serif;
@@ -19,10 +19,7 @@ padding: 20px;
 
 }
 
-.btn {
-height: 37px; 
-width: 37px;   
-background-image:url('http://www.w3.org/html/logo/downloads/HTML5_Logo_32.png');
-background-repeat:no-repeat;
+
+.TextoInicio {
+FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: Arial; TEXT-DECORATION: none ; TEXT-ALIGN:justify;
 }
-</style>
