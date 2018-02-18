@@ -14,6 +14,7 @@ function validarNombre(){
         correcto = "true";
     }if(nombre.match(patronmalo)){
         alert("Nombre invaido");
+        permiso -= 1;
     }
     
     }
@@ -54,6 +55,7 @@ function validarComentario(){
 
 function enviado(){
             document.getElementById('resultado').innerHTML='Comentario enviado exitosamente';
+    permiso = 0;
 }
 
 function validar(){
@@ -64,5 +66,8 @@ function validar(){
     
     if(permiso == 4){
         enviado();
+    }else{
+document.getElementById('resultado').innerHTML='Error en los campos';
+        permiso = 0;
     }
 }
